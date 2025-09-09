@@ -7,3 +7,7 @@
 ``` julia
 orthogonal(vec1, vec2) = vec1' * vec2 == 0
 ```
+
+- [x] create markdown list
+- [ ] finish tutorial
+- [ ] sleep
